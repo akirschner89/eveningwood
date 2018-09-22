@@ -1,0 +1,25 @@
+{
+  "name": "eveningwood",
+  "version": "1.0.0",
+  "description": "node app for financial analysis",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akirschner89/eveningwood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akirschner89/eveningwood/issues"
+  },
+  "homepage": "https://github.com/akirschner89/eveningwood#readme"
+}
